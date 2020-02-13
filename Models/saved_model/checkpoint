@@ -1,0 +1,2 @@
+model_checkpoint_path: "main_model_gt.ckpt"
+all_model_checkpoint_paths: "main_model_gt.ckpt"
